@@ -2,6 +2,8 @@ Configure a Raspberry Pi to play samples (of Hermione spells).
 
 ![Hermione spells sample player](./hermione-sample-player.png)
 
+Press the buttons and a different sample is played for each button.
+
 A project I built with my daughter so she can cast Hermione spells.
 
 ### Inventory of parts
